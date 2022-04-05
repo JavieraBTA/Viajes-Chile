@@ -1,3 +1,19 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+.navbar {
+    background-color: #373A3C;
+}
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.menu {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
