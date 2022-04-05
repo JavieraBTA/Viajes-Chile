@@ -1,9 +1,9 @@
-body {
-    font-family: 'Roboto', sans-serif;
+html {
+    scroll-behavior: smooth;
 }
 
-.navbar {
-    background-color: #373A3C;
+body {
+    font-family: 'Roboto', sans-serif;
 }
 
 .navbar-brand {
