@@ -57,3 +57,17 @@ p {
 .card-body {
     background-color: #0DCAF0;
 }
+
+.contacto {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.enviar
+{
+    background-color: #0DCAF0;
+    color: white;
+}
