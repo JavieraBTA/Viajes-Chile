@@ -45,3 +45,15 @@ p {
     font-weight: 300;
     font-size: 1rem;
 }
+
+.destacados {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.card-body {
+    background-color: #0DCAF0;
+}
