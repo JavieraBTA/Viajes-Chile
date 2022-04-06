@@ -1,15 +1,11 @@
 html {
     scroll-behavior: smooth;
 }
-
-nav {
-    padding: 0px 37px;
-}
-
 .navbar-brand {
     font-family: 'Roboto', sans-serif;
     font-size: 1.25rem;
     font-weight: 400;
+    color: white;
 }
 
 .menu {
@@ -18,18 +14,11 @@ nav {
     font-size: 1rem;
 }
 
-.quienesSomos {
-    background-color: black;
-    color: white;
-    font-family: 'Roboto', sans-serif;
-    padding-left: 37px;
-    padding-right: 37px;
-}
-
 .info {
+    color: white;
     background-color: black;
-    padding: 0px 98.5px;
-
+    padding: 0px 37px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .icon {
@@ -46,28 +35,23 @@ p {
     font-size: 1rem;
 }
 
-.destacados {
-    background-color: black;
-    color: white;
-    font-family: 'Roboto', sans-serif;
-    padding-left: 50px;
-    padding-right: 50px;
-}
-
 .card-body {
     background-color: #0DCAF0;
 }
 
-.contacto {
-    background-color: black;
-    color: white;
-    font-family: 'Roboto', sans-serif;
-    padding-left: 50px;
-    padding-right: 50px;
-}
-
-.enviar
-{
+.enviar {
     background-color: #0DCAF0;
     color: white;
+}
+
+footer {
+    background-color: #0DCAF0;
+    padding: 20px 200px;
+}
+
+a {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
 }
